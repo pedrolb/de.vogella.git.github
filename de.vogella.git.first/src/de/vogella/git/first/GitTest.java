@@ -5,6 +5,6 @@ public class GitTest {
 
         System.out.println("Testando alteração de arquivo");
         
-        System.out.println("TESTE DE COMMIT 09:36");
+        System.out.println("TESTE DE COMMIT 09:59");
     }
 }
